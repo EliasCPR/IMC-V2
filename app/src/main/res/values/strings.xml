@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula 19-03</string>
+    <string name="imc_title">IMC</string>
+    <string name="hint_peso">Informe o seu peso</string>
+    <string name="hint_altura">Informe a sua altura</string>
+    <string name="button_calcular_imc">Calcular seu IMC</string>
+</resources>
